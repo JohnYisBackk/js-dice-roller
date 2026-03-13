@@ -43,6 +43,3 @@ No frameworks or libraries were used.
 4. The roll is added to the **history list**
 5. Use **Clear History** to reset the rolls
 
----
-
-## 📂 Project Structure
