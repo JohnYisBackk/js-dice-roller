@@ -1,4 +1,4 @@
-# 🎲 Dice Roller PRO
+# 🎲 Dice Roller 
 
 A modern interactive **Dice Roller web application** built using **HTML, CSS and Vanilla JavaScript**.
 
